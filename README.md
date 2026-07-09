@@ -3,7 +3,6 @@ A data science project using Logistic Regression and K-Means Clustering to suppo
 
 ## Dataset Used
 Source: Kaggle — Credit Risk & Loan Default Analysis Dataset
-[Link to dataset]
 
 ## Project Aim
 Two pipelines:
@@ -24,13 +23,11 @@ Two pipelines:
 7. K-Means clustering with elbow method - Transform
 
 ## Results - Load (ETL)
-- Logistic Regression accuracy: XX%
-- Precision/Recall/F1: ...
+- Logistic Regression accuracy: 
+- Precision/Recall/F1
 - Optimal k = X (via elbow method)
 - 3–5 distinct risk personas identified
 
-## Visuals 
-[Embed your key screenshots — elbow plot, clusters, confusion matrix] - + EDA Viuals
 
 ## Conclusion
 Machine learning tatistical methods can support faster, fairer, and more individualised loan decisions, while maintaining regulatory adherence.
