@@ -2,7 +2,7 @@ Loan Risk Prediction & Persona Segmentation
 A data science project using Logistic Regression and K-Means Clustering to support automated loan approval and persona-based loan matching.
 
 ## Dataset Used
-Source: Kaggle — Credit Risk & Loan Default Analysis Dataset
+Source: Kaggle - Credit Risk & Loan Default Analysis Dataset
 
 ## Project Aim
 Two pipelines:
